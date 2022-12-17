@@ -1,9 +1,9 @@
-# project-1---dynamic-vector
+# Dynamic Vector Project
 
-My submission for CPSC 131, Section 07, Lab Week 3
+# Properties
 
-# My Information
+* Created a custom-made dynamic vector that mirrors the properties of a normal vector
 
-* Name: Alex Bui
-* CWID: 885680090
-* Email: buia4@csu.fullerton.edu
+* Has the ability to resize its capacity dynamically when full
+
+* Keeps track of current size and capacity 
